@@ -1,5 +1,8 @@
 package com.gildedrose;
 
+/**
+ * This class needs to be refactored so the data is encapsulated. However, a Goblin will eat you if you change it.
+ */
 public class Item {
 
     public String name;
